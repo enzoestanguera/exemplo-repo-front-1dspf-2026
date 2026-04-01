@@ -1,0 +1,3 @@
+#ignorando o arquivo .DS.html do macOs
+.DS_Store
+
