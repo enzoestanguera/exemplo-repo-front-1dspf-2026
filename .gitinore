@@ -1,3 +1,2 @@
-
-#ignre all html files that end with Ds.html
-.Ds.html
+#git ignore
+.DS.html
